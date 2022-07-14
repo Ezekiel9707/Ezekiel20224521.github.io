@@ -40,7 +40,7 @@ window.onload = function(){
 };
 
 
-//Chatbox/bot (Jordyn)
+//Chatbox/bot (Ezekiel)
 function getBotResponse(input) {
     //rock paper scissors
     if (input == "rock") {
